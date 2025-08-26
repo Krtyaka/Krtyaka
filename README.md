@@ -3,7 +3,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+<h2 align="center"> 🛠️ Tech Stack </h2>
 <div align="center">
 
 | Languages | Web / Frameworks | Tools |
@@ -14,23 +14,23 @@
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center"> 📊 GitHub Stats </h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Krtyaka&show_icons=true&theme=radical" alt="stats" height="180" />
-  <span style="display:inline-block; width:30px;"></span> <!-- adds spacing -->
+  <img width="40" /> <!-- spacer -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krtyaka&layout=compact&theme=radical" alt="langs" height="180" />
 </p>
 
 ---
 
-## 🌟 Open Source Goals
+<h2 align="center"> 🌟 Open Source Goals </h2>
 - ✨ Contribute consistently to beginner-friendly repos  
 - 🤝 Collaborate with mentors & peers at **GSSoC**  
 - 🚀 Build impactful projects & grow my GitHub profile  
 
 ---
 
-## 📬 Connect With Me
+<h2 align="center"> 📬 Connect With Me </h2>
 <p align="center">
   <a href="http://www.linkedin.com/in/krtyaka-ahuja-04498a31a">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
