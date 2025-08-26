@@ -5,9 +5,9 @@
 
 ## 🛠️ Tech Stack
 
-- **Languages:** ![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=javascript)  
-- **Web Dev (MERN):** ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![Express](https://skillicons.dev/icons?i=express) ![React](https://skillicons.dev/icons?i=react) ![Nodejs](https://skillicons.dev/icons?i=nodejs)  
-- **Tools & Others:** ![Git](https://skillicons.dev/icons?i=git) ![Github](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode)  
+| Languages | Web / Frameworks | Tools |
+|-----------|------------------|-------|
+| ![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=javascript) | ![React](https://skillicons.dev/icons?i=react) ![Nodejs](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![MongoDB](https://skillicons.dev/icons?i=mongodb) | ![Git](https://skillicons.dev/icons?i=git) ![Github](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) |
 
 ---
 
