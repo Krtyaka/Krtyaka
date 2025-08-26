@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Krtyaka/Krtyaka/main/banner.png" alt="Welcome Banner" />
-</p>
-
 <h1 align="center">Hi there 👋, I'm <span style="color:#00bfff">Krtyaka</span></h1>
 <h3 align="center">3rd-year CS Student | Java & Python | MERN Stack Learner | Open Source Enthusiast</h3>
 
@@ -30,18 +26,17 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krtyaka&show_icons=true&theme=radical" alt="stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krtyaka&layout=compact&theme=radical" alt="langs" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Krtyaka&show_icons=true&theme=radical" alt="stats" height="180" />
+  <span style="display:inline-block; width:30px;"></span> <!-- adds spacing -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krtyaka&layout=compact&theme=radical" alt="langs" height="180" />
 </p>
 
 ---
 
 ## 🌟 Open Source Goals
-<p align="center">
-  ✨ Contribute consistently to beginner-friendly repos <br/>
-  🤝 Collaborate with mentors & peers at <b>GSSoC</b> <br/>
-  🚀 Build impactful projects & grow my GitHub profile  
-</p>
+- ✨ Contribute consistently to beginner-friendly repos  
+- 🤝 Collaborate with mentors & peers at **GSSoC**  
+- 🚀 Build impactful projects & grow my GitHub profile  
 
 ---
 
