@@ -24,7 +24,7 @@
 ---
 
 <h2 align="center"> 🌟 Open Source Goals </h2>
-<ul align="center">
+<ul align="left">
   <li>✨ Contribute consistently to beginner-friendly repos</li>
   <li>🤝 Collaborate with mentors & peers at <b>GSSoC</b></li>
   <li>🚀 Build impactful projects & grow my GitHub profile</li>
