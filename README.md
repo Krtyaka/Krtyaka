@@ -17,16 +17,18 @@
 <h2 align="center"> 📊 GitHub Stats </h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Krtyaka&show_icons=true&theme=radical" alt="stats" height="180" />
-  <img width="65" /> <!-- spacer -->
+  <img width="90" /> <!-- spacer -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krtyaka&layout=compact&theme=radical" alt="langs" height="180" />
 </p>
 
 ---
 
 <h2 align="center"> 🌟 Open Source Goals </h2>
-- ✨ Contribute consistently to beginner-friendly repos  
-- 🤝 Collaborate with mentors & peers at **GSSoC**  
-- 🚀 Build impactful projects & grow my GitHub profile 
+<ul align="left">
+  <li>✨ Contribute consistently to beginner-friendly repos</li>
+  <li>🤝 Collaborate with mentors & peers at <b>GSSoC</b></li>
+  <li>🚀 Build impactful projects & grow my GitHub profile</li>
+</ul>
 
 ---
 
