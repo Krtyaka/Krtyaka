@@ -9,6 +9,7 @@
 | Languages | Web / Frameworks | Tools |
 |-----------|------------------|-------|
 | ![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=javascript) | ![React](https://skillicons.dev/icons?i=react) ![Nodejs](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![MongoDB](https://skillicons.dev/icons?i=mongodb) | ![Git](https://skillicons.dev/icons?i=git) ![Github](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) |
+</p>
 
 ---
 
