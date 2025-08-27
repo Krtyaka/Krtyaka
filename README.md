@@ -19,6 +19,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Krtyaka&show_icons=true&theme=radical" alt="stats" height="180" />
   <img width="150" /> <!-- spacer -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krtyaka&layout=compact&theme=radical" alt="langs" height="180" />
+  <a href="http://www.github.com/Krtyaka"><img src="https://github-readme-stats.vercel.app/api?  username=Krtyaka&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Krtyaka's GitHub stats" /></a>
+
+<a href="https://github.com/Krtyaka" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krtyaka&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </p>
 
 ---
