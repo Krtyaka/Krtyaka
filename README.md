@@ -16,19 +16,25 @@
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
-<p align="center">
+<table align="center">
+<tr>
+<td>
   <a href="http://www.github.com/Krtyaka">
-    <img src="https://github-readme-stats.vercel.app/api?username=Krtyaka&show_icons=true&count_private=true&title_color=00bfff&text_color=ffffff&icon_color=00bfff&bg_color=000000&hide_border=true" alt="Krtyaka's GitHub stats" height="200"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Krtyaka&show_icons=true&count_private=true&title_color=00bfff&text_color=ffffff&icon_color=00bfff&bg_color=000000&hide_border=true" alt="Krtyaka's GitHub stats" />
   </a>
-  <img width="40"/> <!-- spacer -->
+</td>
+<td>
   <a href="http://www.github.com/Krtyaka">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krtyaka&langs_count=8&layout=compact&title_color=00bfff&text_color=ffffff&icon_color=00bfff&bg_color=000000&hide_border=true" alt="Top Languages" height="200"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krtyaka&langs_count=8&layout=compact&title_color=00bfff&text_color=ffffff&icon_color=00bfff&bg_color=000000&hide_border=true" alt="Top Languages" />
   </a>
-</p>
+</td>
+</tr>
+</table>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krtyaka&bg_color=000000&color=ffffff&line=00bfff&point=00bfff&area=true&hide_border=true" alt="Activity Graph" />
 </p>
+
 
 ---
 
