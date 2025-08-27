@@ -18,24 +18,17 @@
 
 <p align="center">
   <a href="http://www.github.com/Krtyaka">
-    <img src="https://github-readme-stats.vercel.app/api?username=Krtyaka&show_icons=true&count_private=true&title_color=00bfff&text_color=ffffff&icon_color=00bfff&bg_color=000000&hide_border=true" alt="Krtyaka's GitHub stats" height="180"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Krtyaka&show_icons=true&count_private=true&title_color=00bfff&text_color=ffffff&icon_color=00bfff&bg_color=000000&hide_border=true" alt="Krtyaka's GitHub stats" height="200"/>
   </a>
-  <img width="120"/> <!-- spacer -->
+  <img width="40"/> <!-- spacer -->
   <a href="http://www.github.com/Krtyaka">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krtyaka&langs_count=8&layout=compact&title_color=00bfff&text_color=ffffff&icon_color=00bfff&bg_color=000000&hide_border=true" alt="Top Languages" height="180"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krtyaka&langs_count=8&layout=compact&title_color=00bfff&text_color=ffffff&icon_color=00bfff&bg_color=000000&hide_border=true" alt="Top Languages" height="200"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Krtyaka&theme=dark&hide_border=true&background=000000&ring=00bfff&fire=00bfff&currStreakLabel=00bfff&sideNums=ffffff&sideLabels=ffffff&dates=aaaaaa" alt="GitHub Streak" height="180"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krtyaka&bg_color=000000&color=ffffff&line=00bfff&point=00bfff&area=true&hide_border=true" alt="Activity Graph" />
 </p>
-
-
-
 
 ---
 
