@@ -49,10 +49,11 @@
 
 <h2 align="center"> 📬 Connect With Me </h2>
 <p align="center">
-  <a href="http://www.linkedin.com/in/krtyaka-ahuja-04498a31a">
+  <a href="http://www.linkedin.com/in/krtyaka-ahuja-04498a31a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:krtyaka.ahuja@gmail.com">
+  &nbsp
+  <a href="mailto:krtyaka.ahuja@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
