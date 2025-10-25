@@ -38,7 +38,7 @@
 
 ---
 
-<h2 align="center"> 🌟 Open Source Goals </h2>
+<h2 align="center"> Open Source Goals </h2>
 <ul align="left">
   <li>✨ Contribute consistently to beginner-friendly repos</li>
   <li>🤝 Collaborate with mentors & peers at <b>GSSoC</b></li>
@@ -47,7 +47,7 @@
 
 ---
 
-<h2 align="center"> 📬 Connect With Me </h2>
+<h2 align="center"> Connect With Me </h2>
 <p align="center">
   <a href="http://www.linkedin.com/in/krtyaka-ahuja-04498a31a">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
