@@ -3,7 +3,7 @@
 
 ---
 
-<h2 align="center"> 🛠️ Tech Stack </h2>
+<h2 align="center"> Tech Stack </h2>
 <div align="center">
 
 | Languages | Web / Frameworks | Tools |
@@ -14,7 +14,7 @@
 
 ---
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center"> GitHub Analytics</h2>
 
 <table align="center">
 <tr>
